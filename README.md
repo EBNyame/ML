@@ -1,2 +1,2 @@
 # ML
-This repository documents my journey into machine learning, capturing core concepts, challenges, and key lessons along the way. It traces my progression from foundational principles to building my first models, presenting a structured path from beginner to professional.
+This repository documents my journey into machine learning, covering core concepts, challenges, and key lessons learned. It follows a structured progression from foundational principles to building my first models, illustrating my growth from beginner to professional.
